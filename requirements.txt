@@ -1,0 +1,9 @@
+# Tested with Python 3.13 and the versions given as lower bounds below.
+qiskit>=2.6,<3
+qiskit-aer>=0.18
+qiskit-ibm-runtime>=0.51      # only used for the offline FakeKingston snapshot, no IBM account needed
+numpy>=2.0
+scipy>=1.11                   # exponential fit in 04_memory_lifetime
+matplotlib>=3.8
+pylatexenc>=2.10              # circuit drawings with draw("mpl")
+jupyter
