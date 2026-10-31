@@ -2,7 +2,7 @@
 
 Simulation code accompanying the paper
 
-> Y. Mafi, T. Ojanen, and A. G. Moghaddam,
+> Y. Mafi, and A. G. Moghaddam,
 > *Multicopy teleportation and quantum program retrieval on superconducting quantum hardware* (2026).
 
 The protocol is the multicopy, correction-free teleportation of
