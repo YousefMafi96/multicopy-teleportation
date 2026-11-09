@@ -97,9 +97,16 @@ gives identical results.
 
 ## Citation
 
-If you use this code, please cite the paper above and the theory proposal:
+If you use this code, please cite our paper and the underlying theoretical framework:
 
 ```bibtex
+@article{mafi2026multicopy,
+  title={Multicopy teleportation and quantum program retrieval on superconducting quantum hardware},
+  author={Mafi, Yousef and Moghaddam, Ali G},
+  journal={arXiv:2611.00874},
+  year={2026}
+}
+
 @article{Grosshans2026multicopy,
   author  = {Grosshans, Fr{\'e}d{\'e}ric and Horodecki, Micha{\l} and Murao, Mio and M{\l}ynik, Tomasz
              and Quintino, Marco T{\'u}lio and Studzi{\'n}ski, Micha{\l} and Yoshida, Satoshi},
