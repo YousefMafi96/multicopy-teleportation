@@ -5,6 +5,8 @@ Simulation code accompanying the paper
 > Y. Mafi, and A. G. Moghaddam,
 > *Multicopy teleportation and quantum program retrieval on superconducting quantum hardware* (2026).
 
+Check out the papar here: **[[Google](https://arxiv.org/abs/2611.00874)]([https://google.com](https://arxiv.org/abs/2611.00874))**
+
 The protocol is the multicopy, correction-free teleportation of
 F. Grosshans *et al.*, *Quantum* **10**, 2105 (2026): with $k$ copies of an unknown qubit state and a
 single Bell pair, one collective measurement transfers the state exactly, without any correction at
